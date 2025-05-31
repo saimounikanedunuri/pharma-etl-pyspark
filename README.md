@@ -32,6 +32,6 @@ This project simulates a real-time ETL pipeline using PySpark for a pharmaceutic
 
 ---
 
-📌 **Author:** [Your Name]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
+📌 **Author:** N. Sai Mounika 
+🔗 **LinkedIn:** [(https://www.linkedin.com/in/saimounikanedunuri/)]  
 📁 **Dataset Size:** 1000 records (synthetic)
